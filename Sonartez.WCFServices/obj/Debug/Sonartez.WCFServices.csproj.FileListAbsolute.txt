@@ -1,0 +1,7 @@
+D:\Dev\MVCAPI\Sonartez.Services\Sonartez.WCFServices\bin\Sonartez.WCFServices.dll
+D:\Dev\MVCAPI\Sonartez.Services\Sonartez.WCFServices\bin\Sonartez.WCFServices.pdb
+D:\Dev\MVCAPI\Sonartez.Services\Sonartez.WCFServices\obj\Debug\Sonartez.WCFServices.csprojResolveAssemblyReference.cache
+D:\Dev\MVCAPI\Sonartez.Services\Sonartez.WCFServices\obj\Debug\Sonartez.WCFServices.dll
+D:\Dev\MVCAPI\Sonartez.Services\Sonartez.WCFServices\obj\Debug\Sonartez.WCFServices.pdb
+D:\Dev\MVCAPI\Sonartez.Services\Sonartez.WCFServices\bin\EntityFramework.dll
+D:\Dev\MVCAPI\Sonartez.Services\Sonartez.WCFServices\bin\EntityFramework.xml
