@@ -1,0 +1,13 @@
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\MetroFramework.dll
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\MetroFramework.Fonts.dll
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.CtrlBanLamViec.resources
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FrmMain.resources
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\ObjectListView.dll

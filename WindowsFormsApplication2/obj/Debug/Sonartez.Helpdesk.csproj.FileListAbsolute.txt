@@ -1,0 +1,691 @@
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\SonartezClient.sdf
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\DevExpress.Data.v12.2.dll
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\DevExpress.Printing.v12.2.Core.dll
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\DevExpress.Utils.v12.2.dll
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\DevExpress.XtraEditors.v12.2.dll
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\DevExpress.XtraGrid.v12.2.dll
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\DevExpress.XtraLayout.v12.2.dll
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\MetroFramework.dll
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\MetroFramework.Fonts.dll
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\ObjectListView.dll
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\Sonartez.Entities.dll
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\Sonartez.Entities.pdb
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\DevExpress.Data.v12.2.xml
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\DevExpress.Printing.v12.2.Core.xml
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\DevExpress.Utils.v12.2.xml
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\DevExpress.XtraEditors.v12.2.xml
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\DevExpress.XtraGrid.v12.2.xml
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\DevExpress.XtraLayout.v12.2.xml
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\de\DevExpress.Data.v12.2.resources.dll
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\es\DevExpress.Data.v12.2.resources.dll
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\ja\DevExpress.Data.v12.2.resources.dll
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\ru\DevExpress.Data.v12.2.resources.dll
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\de\DevExpress.Printing.v12.2.Core.resources.dll
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\es\DevExpress.Printing.v12.2.Core.resources.dll
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\ja\DevExpress.Printing.v12.2.Core.resources.dll
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\ru\DevExpress.Printing.v12.2.Core.resources.dll
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\de\DevExpress.Utils.v12.2.resources.dll
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\es\DevExpress.Utils.v12.2.resources.dll
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\ja\DevExpress.Utils.v12.2.resources.dll
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\ru\DevExpress.Utils.v12.2.resources.dll
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\de\DevExpress.XtraEditors.v12.2.resources.dll
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\es\DevExpress.XtraEditors.v12.2.resources.dll
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\ja\DevExpress.XtraEditors.v12.2.resources.dll
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\ru\DevExpress.XtraEditors.v12.2.resources.dll
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\de\DevExpress.XtraGrid.v12.2.resources.dll
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\es\DevExpress.XtraGrid.v12.2.resources.dll
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\ja\DevExpress.XtraGrid.v12.2.resources.dll
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\ru\DevExpress.XtraGrid.v12.2.resources.dll
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\de\DevExpress.XtraLayout.v12.2.resources.dll
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\es\DevExpress.XtraLayout.v12.2.resources.dll
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\ja\DevExpress.XtraLayout.v12.2.resources.dll
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\bin\Debug\ru\DevExpress.XtraLayout.v12.2.resources.dll
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.csprojResolveAssemblyReference.cache
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.CtrlBanLamViec.resources
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.CtrlInfoItem.resources
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.CtrlQuanLyNoiDung.resources
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmMain.resources
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.Properties.Resources.resources
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.csproj.GenerateResource.Cache
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe.licenses
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Dev\MVCAPI\Sonartez.Services\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\bin\Debug\SonartezClient.sdf
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\bin\Debug\DevExpress.Data.v12.2.dll
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\bin\Debug\DevExpress.Printing.v12.2.Core.dll
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\bin\Debug\DevExpress.Utils.v12.2.dll
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\bin\Debug\DevExpress.XtraEditors.v12.2.dll
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\bin\Debug\DevExpress.XtraGrid.v12.2.dll
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\bin\Debug\DevExpress.XtraLayout.v12.2.dll
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\bin\Debug\MetroFramework.dll
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\bin\Debug\MetroFramework.Fonts.dll
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\bin\Debug\Sonartez.Entities.dll
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\bin\Debug\Sonartez.Entities.pdb
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\bin\Debug\DevExpress.Data.v12.2.xml
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\bin\Debug\DevExpress.Printing.v12.2.Core.xml
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\bin\Debug\DevExpress.Utils.v12.2.xml
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\bin\Debug\DevExpress.XtraEditors.v12.2.xml
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\bin\Debug\DevExpress.XtraGrid.v12.2.xml
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\bin\Debug\DevExpress.XtraLayout.v12.2.xml
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\bin\Debug\de\DevExpress.Data.v12.2.resources.dll
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\bin\Debug\es\DevExpress.Data.v12.2.resources.dll
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\bin\Debug\ja\DevExpress.Data.v12.2.resources.dll
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\bin\Debug\ru\DevExpress.Data.v12.2.resources.dll
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\bin\Debug\de\DevExpress.Printing.v12.2.Core.resources.dll
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\bin\Debug\es\DevExpress.Printing.v12.2.Core.resources.dll
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\bin\Debug\ja\DevExpress.Printing.v12.2.Core.resources.dll
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\bin\Debug\ru\DevExpress.Printing.v12.2.Core.resources.dll
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\bin\Debug\de\DevExpress.Utils.v12.2.resources.dll
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\bin\Debug\es\DevExpress.Utils.v12.2.resources.dll
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\bin\Debug\ja\DevExpress.Utils.v12.2.resources.dll
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\bin\Debug\ru\DevExpress.Utils.v12.2.resources.dll
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\bin\Debug\de\DevExpress.XtraEditors.v12.2.resources.dll
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\bin\Debug\es\DevExpress.XtraEditors.v12.2.resources.dll
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\bin\Debug\ja\DevExpress.XtraEditors.v12.2.resources.dll
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\bin\Debug\ru\DevExpress.XtraEditors.v12.2.resources.dll
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\bin\Debug\de\DevExpress.XtraGrid.v12.2.resources.dll
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\bin\Debug\es\DevExpress.XtraGrid.v12.2.resources.dll
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\bin\Debug\ja\DevExpress.XtraGrid.v12.2.resources.dll
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\bin\Debug\ru\DevExpress.XtraGrid.v12.2.resources.dll
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\bin\Debug\de\DevExpress.XtraLayout.v12.2.resources.dll
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\bin\Debug\es\DevExpress.XtraLayout.v12.2.resources.dll
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\bin\Debug\ja\DevExpress.XtraLayout.v12.2.resources.dll
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\bin\Debug\ru\DevExpress.XtraLayout.v12.2.resources.dll
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.csprojResolveAssemblyReference.cache
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.CtrlBanLamViec.resources
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.CtrlInfoItem.resources
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.CtrlQuanLyNoiDung.resources
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmMain.resources
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.Properties.Resources.resources
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.csproj.GenerateResource.Cache
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.UserManager.resources
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmLogin.resources
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmSaveHotline.resources
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmSaveFull.resources
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.ctrlThongKe.resources
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\bin\Debug\TTXTDL Da Nang Helpdesk.exe.config
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\bin\Debug\TTXTDL Da Nang Helpdesk.exe
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\bin\Debug\TTXTDL Da Nang Helpdesk.pdb
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\obj\Debug\TTXTDL Da Nang Helpdesk.exe.licenses
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\obj\Debug\TTXTDL Da Nang Helpdesk.exe
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\obj\Debug\TTXTDL Da Nang Helpdesk.pdb
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\bin\Debug\TTXTDL Da Nang Helpdesk.exe.manifest
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\bin\Debug\TTXTDL Da Nang Helpdesk.application
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\obj\Debug\TTXTDL Da Nang Helpdesk.exe.manifest
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\obj\Debug\TTXTDL Da Nang Helpdesk.application
+D:\devs\ttxtdl\Sonartez.Services\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmImport.resources
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\SonartezClient.sdf
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\TTXTDL Da Nang Helpdesk.exe.config
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\TTXTDL Da Nang Helpdesk.exe.manifest
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\TTXTDL Da Nang Helpdesk.application
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\TTXTDL Da Nang Helpdesk.exe
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\TTXTDL Da Nang Helpdesk.pdb
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\DevExpress.Data.v12.2.dll
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\DevExpress.Printing.v12.2.Core.dll
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\DevExpress.Utils.v12.2.dll
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\DevExpress.XtraEditors.v12.2.dll
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\DevExpress.XtraGrid.v12.2.dll
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\DevExpress.XtraLayout.v12.2.dll
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\MetroFramework.dll
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\MetroFramework.Fonts.dll
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\Sonartez.Entities.dll
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\Sonartez.Entities.pdb
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\DevExpress.Data.v12.2.xml
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\DevExpress.Printing.v12.2.Core.xml
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\DevExpress.Utils.v12.2.xml
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\DevExpress.XtraEditors.v12.2.xml
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\DevExpress.XtraGrid.v12.2.xml
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\DevExpress.XtraLayout.v12.2.xml
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\de\DevExpress.Data.v12.2.resources.dll
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\es\DevExpress.Data.v12.2.resources.dll
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\ja\DevExpress.Data.v12.2.resources.dll
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\ru\DevExpress.Data.v12.2.resources.dll
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\de\DevExpress.Printing.v12.2.Core.resources.dll
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\es\DevExpress.Printing.v12.2.Core.resources.dll
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\ja\DevExpress.Printing.v12.2.Core.resources.dll
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\ru\DevExpress.Printing.v12.2.Core.resources.dll
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\de\DevExpress.Utils.v12.2.resources.dll
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\es\DevExpress.Utils.v12.2.resources.dll
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\ja\DevExpress.Utils.v12.2.resources.dll
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\ru\DevExpress.Utils.v12.2.resources.dll
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\de\DevExpress.XtraEditors.v12.2.resources.dll
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\es\DevExpress.XtraEditors.v12.2.resources.dll
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\ja\DevExpress.XtraEditors.v12.2.resources.dll
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\ru\DevExpress.XtraEditors.v12.2.resources.dll
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\de\DevExpress.XtraGrid.v12.2.resources.dll
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\es\DevExpress.XtraGrid.v12.2.resources.dll
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\ja\DevExpress.XtraGrid.v12.2.resources.dll
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\ru\DevExpress.XtraGrid.v12.2.resources.dll
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\de\DevExpress.XtraLayout.v12.2.resources.dll
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\es\DevExpress.XtraLayout.v12.2.resources.dll
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\ja\DevExpress.XtraLayout.v12.2.resources.dll
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\ru\DevExpress.XtraLayout.v12.2.resources.dll
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.csprojResolveAssemblyReference.cache
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.CtrlBanLamViec.resources
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.CtrlInfoItem.resources
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.CtrlQuanLyNoiDung.resources
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.ctrlThongKe.resources
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmImport.resources
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmLogin.resources
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmMain.resources
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmSaveFull.resources
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmSaveHotline.resources
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.Properties.Resources.resources
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.UserManager.resources
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.csproj.GenerateResource.Cache
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\TTXTDL Da Nang Helpdesk.exe.licenses
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\TTXTDL Da Nang Helpdesk.exe.manifest
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\TTXTDL Da Nang Helpdesk.application
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\TTXTDL Da Nang Helpdesk.exe
+D:\Dev\Apps\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\TTXTDL Da Nang Helpdesk.pdb
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\TTXTDL Da Nang Helpdesk.exe.config
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\TTXTDL Da Nang Helpdesk.exe
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\TTXTDL Da Nang Helpdesk.pdb
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\SonartezClient.sdf
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\TTXTDL Da Nang Helpdesk.exe.manifest
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\TTXTDL Da Nang Helpdesk.application
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\TTXTDL Da Nang Helpdesk.exe
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\TTXTDL Da Nang Helpdesk.pdb
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\DevExpress.Data.v12.2.dll
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\DevExpress.Printing.v12.2.Core.dll
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\DevExpress.Utils.v12.2.dll
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\DevExpress.XtraEditors.v12.2.dll
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\DevExpress.XtraGrid.v12.2.dll
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\DevExpress.XtraLayout.v12.2.dll
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\MetroFramework.dll
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\Sonartez.Entities.dll
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\Sonartez.Entities.pdb
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\DevExpress.Data.v12.2.xml
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\DevExpress.Printing.v12.2.Core.xml
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\DevExpress.Utils.v12.2.xml
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\DevExpress.XtraEditors.v12.2.xml
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\DevExpress.XtraGrid.v12.2.xml
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\DevExpress.XtraLayout.v12.2.xml
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\de\DevExpress.Data.v12.2.resources.dll
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\es\DevExpress.Data.v12.2.resources.dll
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\ja\DevExpress.Data.v12.2.resources.dll
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\ru\DevExpress.Data.v12.2.resources.dll
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\de\DevExpress.Printing.v12.2.Core.resources.dll
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\es\DevExpress.Printing.v12.2.Core.resources.dll
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\ja\DevExpress.Printing.v12.2.Core.resources.dll
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\ru\DevExpress.Printing.v12.2.Core.resources.dll
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\de\DevExpress.Utils.v12.2.resources.dll
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\es\DevExpress.Utils.v12.2.resources.dll
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\ja\DevExpress.Utils.v12.2.resources.dll
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\ru\DevExpress.Utils.v12.2.resources.dll
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\de\DevExpress.XtraEditors.v12.2.resources.dll
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\es\DevExpress.XtraEditors.v12.2.resources.dll
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\ja\DevExpress.XtraEditors.v12.2.resources.dll
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\ru\DevExpress.XtraEditors.v12.2.resources.dll
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\de\DevExpress.XtraGrid.v12.2.resources.dll
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\es\DevExpress.XtraGrid.v12.2.resources.dll
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\ja\DevExpress.XtraGrid.v12.2.resources.dll
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\ru\DevExpress.XtraGrid.v12.2.resources.dll
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\de\DevExpress.XtraLayout.v12.2.resources.dll
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\es\DevExpress.XtraLayout.v12.2.resources.dll
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\ja\DevExpress.XtraLayout.v12.2.resources.dll
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\ru\DevExpress.XtraLayout.v12.2.resources.dll
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.csprojResolveAssemblyReference.cache
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.CtrlBanLamViec.resources
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.CtrlInfoItem.resources
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.CtrlQuanLyNoiDung.resources
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.ctrlThongKe.resources
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmConfig.resources
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmImport.resources
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmLogin.resources
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmMain.resources
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmSaveFull.resources
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmSaveHotline.resources
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.Properties.Resources.resources
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.UserManager.resources
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.csproj.GenerateResource.Cache
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\TTXTDL Da Nang Helpdesk.exe.licenses
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\TTXTDL Da Nang Helpdesk.exe.manifest
+C:\Users\Linh\Desktop\TTXTDL\Apps\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\TTXTDL Da Nang Helpdesk.application
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\TTXTDL Da Nang Helpdesk.exe.config
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\TTXTDL Da Nang Helpdesk.exe
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\TTXTDL Da Nang Helpdesk.pdb
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\SonartezClient.sdf
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\TTXTDL Da Nang Helpdesk.exe.manifest
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\TTXTDL Da Nang Helpdesk.application
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\TTXTDL Da Nang Helpdesk.exe
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\TTXTDL Da Nang Helpdesk.pdb
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\DevExpress.Data.v12.2.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\DevExpress.Printing.v12.2.Core.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\DevExpress.Utils.v12.2.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\DevExpress.XtraEditors.v12.2.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\DevExpress.XtraGrid.v12.2.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\DevExpress.XtraLayout.v12.2.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\MetroFramework.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\MetroFramework.Fonts.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\Sonartez.Entities.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\Sonartez.Entities.pdb
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\DevExpress.Data.v12.2.xml
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\DevExpress.Printing.v12.2.Core.xml
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\DevExpress.Utils.v12.2.xml
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\DevExpress.XtraEditors.v12.2.xml
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\DevExpress.XtraGrid.v12.2.xml
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\DevExpress.XtraLayout.v12.2.xml
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\de\DevExpress.Data.v12.2.resources.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\es\DevExpress.Data.v12.2.resources.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\ja\DevExpress.Data.v12.2.resources.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\ru\DevExpress.Data.v12.2.resources.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\de\DevExpress.Printing.v12.2.Core.resources.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\es\DevExpress.Printing.v12.2.Core.resources.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\ja\DevExpress.Printing.v12.2.Core.resources.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\ru\DevExpress.Printing.v12.2.Core.resources.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\de\DevExpress.Utils.v12.2.resources.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\es\DevExpress.Utils.v12.2.resources.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\ja\DevExpress.Utils.v12.2.resources.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\ru\DevExpress.Utils.v12.2.resources.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\de\DevExpress.XtraEditors.v12.2.resources.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\es\DevExpress.XtraEditors.v12.2.resources.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\ja\DevExpress.XtraEditors.v12.2.resources.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\ru\DevExpress.XtraEditors.v12.2.resources.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\de\DevExpress.XtraGrid.v12.2.resources.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\es\DevExpress.XtraGrid.v12.2.resources.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\ja\DevExpress.XtraGrid.v12.2.resources.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\ru\DevExpress.XtraGrid.v12.2.resources.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\de\DevExpress.XtraLayout.v12.2.resources.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\es\DevExpress.XtraLayout.v12.2.resources.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\ja\DevExpress.XtraLayout.v12.2.resources.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\ru\DevExpress.XtraLayout.v12.2.resources.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.CtrlBanLamViec.resources
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.CtrlInfoItem.resources
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.CtrlQuanLyNoiDung.resources
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.ctrlThongKe.resources
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmConfig.resources
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmImport.resources
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmLogin.resources
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmMain.resources
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmSaveFull.resources
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmSaveHotline.resources
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.Properties.Resources.resources
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.UserManager.resources
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.csproj.GenerateResource.Cache
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\TTXTDL Da Nang Helpdesk.exe.licenses
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\TTXTDL Da Nang Helpdesk.exe.manifest
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\TTXTDL Da Nang Helpdesk.application
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.csproj.App.config
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\Newtonsoft.Json.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\System.IO.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\System.Net.Http.Formatting.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\System.Runtime.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\System.Threading.Tasks.dll
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\Newtonsoft.Json.xml
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\System.IO.xml
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\System.Net.Http.Formatting.xml
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\System.Runtime.xml
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\bin\Debug\System.Threading.Tasks.xml
+D:\Dev\Apps\20141112\Sonartez.Services.v11\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.csprojResolveAssemblyReference.cache
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\SonartezClient.sdf
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\TTXTDL Da Nang Helpdesk.exe.config
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\TTXTDL Da Nang Helpdesk.exe.manifest
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\TTXTDL Da Nang Helpdesk.application
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\TTXTDL Da Nang Helpdesk.exe
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\TTXTDL Da Nang Helpdesk.pdb
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.Data.v12.2.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.Printing.v12.2.Core.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.Utils.v12.2.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.XtraEditors.v12.2.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.XtraGrid.v12.2.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.XtraLayout.v12.2.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\MetroFramework.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\MetroFramework.Fonts.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\Newtonsoft.Json.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\Sonartez.Entities.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\System.IO.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\System.Net.Http.Formatting.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\System.Runtime.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\System.Threading.Tasks.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\Sonartez.Entities.pdb
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.Data.v12.2.xml
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.Printing.v12.2.Core.xml
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.Utils.v12.2.xml
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.XtraEditors.v12.2.xml
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.XtraGrid.v12.2.xml
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.XtraLayout.v12.2.xml
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\Newtonsoft.Json.xml
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\System.IO.xml
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\System.Net.Http.Formatting.xml
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\System.Runtime.xml
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\System.Threading.Tasks.xml
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\de\DevExpress.Data.v12.2.resources.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\es\DevExpress.Data.v12.2.resources.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ja\DevExpress.Data.v12.2.resources.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ru\DevExpress.Data.v12.2.resources.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\de\DevExpress.Printing.v12.2.Core.resources.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\es\DevExpress.Printing.v12.2.Core.resources.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ja\DevExpress.Printing.v12.2.Core.resources.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ru\DevExpress.Printing.v12.2.Core.resources.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\de\DevExpress.Utils.v12.2.resources.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\es\DevExpress.Utils.v12.2.resources.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ja\DevExpress.Utils.v12.2.resources.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ru\DevExpress.Utils.v12.2.resources.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\de\DevExpress.XtraEditors.v12.2.resources.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\es\DevExpress.XtraEditors.v12.2.resources.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ja\DevExpress.XtraEditors.v12.2.resources.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ru\DevExpress.XtraEditors.v12.2.resources.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\de\DevExpress.XtraGrid.v12.2.resources.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\es\DevExpress.XtraGrid.v12.2.resources.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ja\DevExpress.XtraGrid.v12.2.resources.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ru\DevExpress.XtraGrid.v12.2.resources.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\de\DevExpress.XtraLayout.v12.2.resources.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\es\DevExpress.XtraLayout.v12.2.resources.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ja\DevExpress.XtraLayout.v12.2.resources.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ru\DevExpress.XtraLayout.v12.2.resources.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.csproj.App.config
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.csprojResolveAssemblyReference.cache
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmEditFull.resources
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.CtrlBanLamViec.resources
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.CtrlQuanLyNoiDung.resources
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.ctrlThongKe.resources
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmConfig.resources
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmLogin.resources
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmMain.resources
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmSaveFull.resources
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmSaveHotline.resources
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmThongKe_TheoThoiGian.resources
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.Properties.Resources.resources
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.UserManager.resources
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.csproj.GenerateResource.Cache
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\obj\Debug\TTXTDL Da Nang Helpdesk.exe.manifest
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\obj\Debug\TTXTDL Da Nang Helpdesk.application
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\obj\Debug\TTXTDL Da Nang Helpdesk.exe
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\obj\Debug\TTXTDL Da Nang Helpdesk.pdb
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\SonartezClient.sdf
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\TTXTDL Da Nang Helpdesk.exe.config
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\TTXTDL Da Nang Helpdesk.exe.manifest
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\TTXTDL Da Nang Helpdesk.application
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\TTXTDL Da Nang Helpdesk.exe
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\TTXTDL Da Nang Helpdesk.pdb
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\DevExpress.Charts.v12.2.Core.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\DevExpress.Data.v12.2.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\DevExpress.Office.v12.2.Core.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\DevExpress.Printing.v12.2.Core.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\DevExpress.RichEdit.v12.2.Core.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\DevExpress.Utils.v12.2.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\DevExpress.XtraBars.v12.2.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\DevExpress.XtraCharts.v12.2.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\DevExpress.XtraCharts.v12.2.UI.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\DevExpress.XtraCharts.v12.2.Wizard.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\DevExpress.XtraEditors.v12.2.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\DevExpress.XtraGrid.v12.2.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\DevExpress.XtraLayout.v12.2.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\DevExpress.XtraRichEdit.v12.2.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\DevExpress.XtraRichEdit.v12.2.Extensions.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\MetroFramework.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\MetroFramework.Fonts.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\Newtonsoft.Json.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\Sonartez.Entities.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\System.IO.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\System.Net.Http.Formatting.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\System.Runtime.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\System.Threading.Tasks.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\Sonartez.Entities.pdb
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\DevExpress.Data.v12.2.xml
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\DevExpress.Office.v12.2.Core.xml
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\DevExpress.Printing.v12.2.Core.xml
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\DevExpress.RichEdit.v12.2.Core.xml
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\DevExpress.Utils.v12.2.xml
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\DevExpress.XtraBars.v12.2.xml
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\DevExpress.XtraCharts.v12.2.xml
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\DevExpress.XtraCharts.v12.2.UI.xml
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\DevExpress.XtraCharts.v12.2.Wizard.xml
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\DevExpress.XtraEditors.v12.2.xml
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\DevExpress.XtraGrid.v12.2.xml
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\DevExpress.XtraLayout.v12.2.xml
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\DevExpress.XtraRichEdit.v12.2.xml
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\Newtonsoft.Json.xml
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\System.IO.xml
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\System.Net.Http.Formatting.xml
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\System.Runtime.xml
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\System.Threading.Tasks.xml
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\de\DevExpress.Data.v12.2.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\es\DevExpress.Data.v12.2.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\ja\DevExpress.Data.v12.2.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\ru\DevExpress.Data.v12.2.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\de\DevExpress.Printing.v12.2.Core.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\es\DevExpress.Printing.v12.2.Core.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\ja\DevExpress.Printing.v12.2.Core.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\ru\DevExpress.Printing.v12.2.Core.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\de\DevExpress.RichEdit.v12.2.Core.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\es\DevExpress.RichEdit.v12.2.Core.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\ja\DevExpress.RichEdit.v12.2.Core.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\ru\DevExpress.RichEdit.v12.2.Core.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\de\DevExpress.Utils.v12.2.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\es\DevExpress.Utils.v12.2.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\ja\DevExpress.Utils.v12.2.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\ru\DevExpress.Utils.v12.2.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\de\DevExpress.XtraBars.v12.2.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\es\DevExpress.XtraBars.v12.2.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\ja\DevExpress.XtraBars.v12.2.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\ru\DevExpress.XtraBars.v12.2.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\de\DevExpress.XtraCharts.v12.2.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\es\DevExpress.XtraCharts.v12.2.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\ja\DevExpress.XtraCharts.v12.2.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\ru\DevExpress.XtraCharts.v12.2.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\de\DevExpress.XtraCharts.v12.2.Wizard.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\es\DevExpress.XtraCharts.v12.2.Wizard.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\ja\DevExpress.XtraCharts.v12.2.Wizard.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\ru\DevExpress.XtraCharts.v12.2.Wizard.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\de\DevExpress.XtraEditors.v12.2.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\es\DevExpress.XtraEditors.v12.2.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\ja\DevExpress.XtraEditors.v12.2.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\ru\DevExpress.XtraEditors.v12.2.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\de\DevExpress.XtraGrid.v12.2.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\es\DevExpress.XtraGrid.v12.2.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\ja\DevExpress.XtraGrid.v12.2.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\ru\DevExpress.XtraGrid.v12.2.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\de\DevExpress.XtraLayout.v12.2.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\es\DevExpress.XtraLayout.v12.2.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\ja\DevExpress.XtraLayout.v12.2.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\ru\DevExpress.XtraLayout.v12.2.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\de\DevExpress.XtraRichEdit.v12.2.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\es\DevExpress.XtraRichEdit.v12.2.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\ja\DevExpress.XtraRichEdit.v12.2.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\ru\DevExpress.XtraRichEdit.v12.2.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\de\DevExpress.XtraRichEdit.v12.2.Extensions.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\es\DevExpress.XtraRichEdit.v12.2.Extensions.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\ja\DevExpress.XtraRichEdit.v12.2.Extensions.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\bin\Debug\ru\DevExpress.XtraRichEdit.v12.2.Extensions.resources.dll
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.csproj.App.config
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.csprojResolveAssemblyReference.cache
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmEditFull.resources
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.CtrlBanLamViec.resources
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.CtrlQuanLyNoiDung.resources
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.ctrlThongKe.resources
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmConfig.resources
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmLogin.resources
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmMain.resources
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmSaveFull.resources
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmSaveHotline.resources
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmThongKe_TheoThoiGian.resources
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.Properties.Resources.resources
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.UserManager.resources
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.csproj.GenerateResource.Cache
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\obj\Debug\TTXTDL Da Nang Helpdesk.exe.licenses
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\obj\Debug\TTXTDL Da Nang Helpdesk.exe.manifest
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\obj\Debug\TTXTDL Da Nang Helpdesk.application
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\obj\Debug\TTXTDL Da Nang Helpdesk.exe
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\obj\Debug\TTXTDL Da Nang Helpdesk.pdb
+D:\Dev\Apps\TTXTDL\DNNEW\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmSyncronize.resources
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.ContentFullScreen.resources
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmChangePass.resources
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmSyncronize.resources
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.Charts.v12.2.Core.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.Office.v12.2.Core.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.RichEdit.v12.2.Core.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.XtraBars.v12.2.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.XtraCharts.v12.2.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.XtraCharts.v12.2.UI.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.XtraCharts.v12.2.Wizard.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.XtraRichEdit.v12.2.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.XtraRichEdit.v12.2.Extensions.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.Office.v12.2.Core.xml
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.RichEdit.v12.2.Core.xml
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.XtraBars.v12.2.xml
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.XtraCharts.v12.2.xml
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.XtraCharts.v12.2.UI.xml
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.XtraCharts.v12.2.Wizard.xml
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.XtraRichEdit.v12.2.xml
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\de\DevExpress.RichEdit.v12.2.Core.resources.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\es\DevExpress.RichEdit.v12.2.Core.resources.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ja\DevExpress.RichEdit.v12.2.Core.resources.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ru\DevExpress.RichEdit.v12.2.Core.resources.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\de\DevExpress.XtraBars.v12.2.resources.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\es\DevExpress.XtraBars.v12.2.resources.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ja\DevExpress.XtraBars.v12.2.resources.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ru\DevExpress.XtraBars.v12.2.resources.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\de\DevExpress.XtraCharts.v12.2.resources.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\es\DevExpress.XtraCharts.v12.2.resources.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ja\DevExpress.XtraCharts.v12.2.resources.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ru\DevExpress.XtraCharts.v12.2.resources.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\de\DevExpress.XtraCharts.v12.2.Wizard.resources.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\es\DevExpress.XtraCharts.v12.2.Wizard.resources.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ja\DevExpress.XtraCharts.v12.2.Wizard.resources.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ru\DevExpress.XtraCharts.v12.2.Wizard.resources.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\de\DevExpress.XtraRichEdit.v12.2.resources.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\es\DevExpress.XtraRichEdit.v12.2.resources.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ja\DevExpress.XtraRichEdit.v12.2.resources.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ru\DevExpress.XtraRichEdit.v12.2.resources.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\de\DevExpress.XtraRichEdit.v12.2.Extensions.resources.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\es\DevExpress.XtraRichEdit.v12.2.Extensions.resources.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ja\DevExpress.XtraRichEdit.v12.2.Extensions.resources.dll
+D:\Apps\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ru\DevExpress.XtraRichEdit.v12.2.Extensions.resources.dll
+F:\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\TTXTDL Da Nang Helpdesk.exe.config
+F:\TTXTDL\1112\WindowsFormsApplication2\obj\Debug\TTXTDL Da Nang Helpdesk.exe
+F:\TTXTDL\1112\WindowsFormsApplication2\obj\Debug\TTXTDL Da Nang Helpdesk.pdb
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\TTXTDL Da Nang Helpdesk.exe.config
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\obj\Debug\TTXTDL Da Nang Helpdesk.exe
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\obj\Debug\TTXTDL Da Nang Helpdesk.pdb
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\SonartezClient.sdf
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\TTXTDL Da Nang Helpdesk.exe.manifest
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\TTXTDL Da Nang Helpdesk.application
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\TTXTDL Da Nang Helpdesk.exe
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\TTXTDL Da Nang Helpdesk.pdb
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.Charts.v14.2.Core.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.Data.v14.2.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.Office.v14.2.Core.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.Printing.v14.2.Core.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.RichEdit.v14.2.Core.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.Utils.v14.2.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.XtraBars.v14.2.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.XtraCharts.v14.2.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.XtraCharts.v14.2.UI.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.XtraCharts.v14.2.Wizard.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.XtraEditors.v14.2.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.XtraGrid.v14.2.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.XtraLayout.v14.2.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.XtraPrinting.v14.2.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.XtraRichEdit.v14.2.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.XtraRichEdit.v14.2.Extensions.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\MetroFramework.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\MetroFramework.Fonts.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\Newtonsoft.Json.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\Sonartez.Entities.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\System.IO.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\System.Net.Http.Formatting.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\System.Runtime.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\System.Threading.Tasks.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\Sonartez.Entities.pdb
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.Data.v14.2.xml
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.Office.v14.2.Core.xml
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.Printing.v14.2.Core.xml
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.RichEdit.v14.2.Core.xml
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.Utils.v14.2.xml
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.XtraBars.v14.2.xml
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.XtraCharts.v14.2.xml
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.XtraCharts.v14.2.UI.xml
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.XtraCharts.v14.2.Wizard.xml
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.XtraEditors.v14.2.xml
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.XtraPrinting.v14.2.xml
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.XtraGrid.v14.2.xml
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.XtraLayout.v14.2.xml
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.XtraRichEdit.v14.2.xml
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\DevExpress.XtraRichEdit.v14.2.Extensions.xml
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\Newtonsoft.Json.xml
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\System.IO.xml
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\System.Net.Http.Formatting.xml
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\System.Runtime.xml
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\System.Threading.Tasks.xml
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\de\DevExpress.Data.v14.2.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\es\DevExpress.Data.v14.2.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ja\DevExpress.Data.v14.2.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ru\DevExpress.Data.v14.2.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\de\DevExpress.Office.v14.2.Core.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\es\DevExpress.Office.v14.2.Core.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ja\DevExpress.Office.v14.2.Core.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ru\DevExpress.Office.v14.2.Core.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\de\DevExpress.Printing.v14.2.Core.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\es\DevExpress.Printing.v14.2.Core.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ja\DevExpress.Printing.v14.2.Core.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ru\DevExpress.Printing.v14.2.Core.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\de\DevExpress.RichEdit.v14.2.Core.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\es\DevExpress.RichEdit.v14.2.Core.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ja\DevExpress.RichEdit.v14.2.Core.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ru\DevExpress.RichEdit.v14.2.Core.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\de\DevExpress.Utils.v14.2.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\es\DevExpress.Utils.v14.2.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ja\DevExpress.Utils.v14.2.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ru\DevExpress.Utils.v14.2.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\de\DevExpress.XtraBars.v14.2.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\es\DevExpress.XtraBars.v14.2.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ja\DevExpress.XtraBars.v14.2.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ru\DevExpress.XtraBars.v14.2.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\de\DevExpress.XtraCharts.v14.2.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\es\DevExpress.XtraCharts.v14.2.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ja\DevExpress.XtraCharts.v14.2.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ru\DevExpress.XtraCharts.v14.2.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\de\DevExpress.XtraCharts.v14.2.Wizard.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\es\DevExpress.XtraCharts.v14.2.Wizard.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ja\DevExpress.XtraCharts.v14.2.Wizard.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ru\DevExpress.XtraCharts.v14.2.Wizard.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\de\DevExpress.XtraEditors.v14.2.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\es\DevExpress.XtraEditors.v14.2.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ja\DevExpress.XtraEditors.v14.2.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ru\DevExpress.XtraEditors.v14.2.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\de\DevExpress.XtraPrinting.v14.2.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\es\DevExpress.XtraPrinting.v14.2.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ja\DevExpress.XtraPrinting.v14.2.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ru\DevExpress.XtraPrinting.v14.2.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\de\DevExpress.XtraGrid.v14.2.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\es\DevExpress.XtraGrid.v14.2.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ja\DevExpress.XtraGrid.v14.2.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ru\DevExpress.XtraGrid.v14.2.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\de\DevExpress.XtraLayout.v14.2.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\es\DevExpress.XtraLayout.v14.2.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ja\DevExpress.XtraLayout.v14.2.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ru\DevExpress.XtraLayout.v14.2.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\de\DevExpress.XtraRichEdit.v14.2.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\es\DevExpress.XtraRichEdit.v14.2.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ja\DevExpress.XtraRichEdit.v14.2.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ru\DevExpress.XtraRichEdit.v14.2.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\de\DevExpress.XtraRichEdit.v14.2.Extensions.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\es\DevExpress.XtraRichEdit.v14.2.Extensions.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ja\DevExpress.XtraRichEdit.v14.2.Extensions.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\bin\Debug\ru\DevExpress.XtraRichEdit.v14.2.Extensions.resources.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.csproj.App.config
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.csprojResolveAssemblyReference.cache
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.ContentFullScreen.resources
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmChangePass.resources
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmEditFull.resources
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.CtrlBanLamViec.resources
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.CtrlQuanLyNoiDung.resources
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.ctrlThongKe.resources
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmConfig.resources
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmLogin.resources
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmMain.resources
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmSaveFull.resources
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmSaveHotline.resources
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmSyncronize.resources
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.FrmThongKe_TheoThoiGian.resources
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.Properties.Resources.resources
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.UserManager.resources
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\obj\Debug\Sonartez.Helpdesk.csproj.GenerateResource.Cache
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\obj\Debug\TTXTDL Da Nang Helpdesk.exe.manifest
+D:\Workspaces\Sonartez\TTXTDL\1112\WindowsFormsApplication2\obj\Debug\TTXTDL Da Nang Helpdesk.application
