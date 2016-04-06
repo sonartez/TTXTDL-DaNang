@@ -1,0 +1,17 @@
+D:\devs\ttxtdl\Sonartez.Services\Sonartez.Entities\bin\Release\Sonartez.Entities.dll
+D:\devs\ttxtdl\Sonartez.Services\Sonartez.Entities\bin\Release\Sonartez.Entities.pdb
+D:\devs\ttxtdl\Sonartez.Services\Sonartez.Entities\obj\Release\Sonartez.Entities.dll
+D:\devs\ttxtdl\Sonartez.Services\Sonartez.Entities\obj\Release\Sonartez.Entities.pdb
+D:\Apps\TTXTDL\1112\Sonartez.Entities\bin\Release\Sonartez.Entities.dll
+D:\Apps\TTXTDL\1112\Sonartez.Entities\bin\Release\Sonartez.Entities.pdb
+D:\Apps\TTXTDL\1112\Sonartez.Entities\obj\Release\Sonartez.Entities.dll
+D:\Apps\TTXTDL\1112\Sonartez.Entities\obj\Release\Sonartez.Entities.pdb
+D:\Apps\TTXTDL\1112\Sonartez.Entities\obj\Release\Sonartez.Entities.csprojResolveAssemblyReference.cache
+D:\Workspaces\Sonartez\TTXTDL\1112\Sonartez.Entities\bin\Release\Sonartez.Entities.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\Sonartez.Entities\bin\Release\Sonartez.Entities.pdb
+D:\Workspaces\Sonartez\TTXTDL\1112\Sonartez.Entities\obj\Release\Sonartez.Entities.dll
+D:\Workspaces\Sonartez\TTXTDL\1112\Sonartez.Entities\obj\Release\Sonartez.Entities.pdb
+D:\Workspaces\Sonartez\TTXTDL-DaNang\Sonartez.Entities\bin\Release\Sonartez.Entities.dll
+D:\Workspaces\Sonartez\TTXTDL-DaNang\Sonartez.Entities\bin\Release\Sonartez.Entities.pdb
+D:\Workspaces\Sonartez\TTXTDL-DaNang\Sonartez.Entities\obj\Release\Sonartez.Entities.dll
+D:\Workspaces\Sonartez\TTXTDL-DaNang\Sonartez.Entities\obj\Release\Sonartez.Entities.pdb
